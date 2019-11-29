@@ -1,0 +1,14 @@
+.pynb_checkpoints
+BuildingsImages
+logs
+NatureImages_Test
+NatureImages_Training
+PetImages
+BuildingsX.pickle
+Buildingsy.pickle
+NatureX_Test.pickle
+Naturey_Test.pickle
+NatureX_Training.pickle
+Naturey_Training.pickle
+PetsX.pickle
+Petsy.pickle
